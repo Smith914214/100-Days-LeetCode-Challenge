@@ -59,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
