@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
