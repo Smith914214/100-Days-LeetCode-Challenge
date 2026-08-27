@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0043-multiply-strings) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0043-multiply-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
