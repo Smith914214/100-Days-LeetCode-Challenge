@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0050-powx-n) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
