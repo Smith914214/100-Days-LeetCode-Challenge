@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0043-multiply-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
