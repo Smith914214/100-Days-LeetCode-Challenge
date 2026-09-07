@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0055-jump-game](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0056-merge-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
