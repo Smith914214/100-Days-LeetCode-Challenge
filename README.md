@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0056-merge-intervals) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
