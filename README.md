@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
