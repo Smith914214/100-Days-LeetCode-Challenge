@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0055-jump-game](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0056-merge-intervals) |
+| [0054-spiral-matrix](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
