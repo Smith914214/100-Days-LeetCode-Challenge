@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0071-simplify-path) |
 ## Array
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
