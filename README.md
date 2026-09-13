@@ -146,4 +146,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
