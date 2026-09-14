@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
+| [0062-unique-paths](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0062-unique-paths) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
+| [0062-unique-paths](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0062-unique-paths) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
