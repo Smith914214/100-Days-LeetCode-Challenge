@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0072-edit-distance) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0072-edit-distance) |
 ## Backtracking
 |  |
 | ------- |
