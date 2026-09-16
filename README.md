@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0086-partition-list) |
 ## Greedy
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
