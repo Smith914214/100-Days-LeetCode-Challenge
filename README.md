@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0056-merge-intervals) |
 | [0054-spiral-matrix](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0086-partition-list) |
+| [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 ## Newton's Method
 |  |
 | ------- |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0062-unique-paths) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
