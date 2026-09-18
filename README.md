@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
 ## Binary Tree
 |  |
 | ------- |
