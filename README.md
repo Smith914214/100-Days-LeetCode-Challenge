@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
+| [0073-set-matrix-zeroes](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
+| [0073-set-matrix-zeroes](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
