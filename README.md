@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
 | [0073-set-matrix-zeroes](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0063-unique-paths-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0063-unique-paths-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0072-edit-distance) |
+| [0063-unique-paths-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0063-unique-paths-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
 | [0073-set-matrix-zeroes](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0063-unique-paths-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0063-unique-paths-ii) |
 ## Simulation
 |  |
 | ------- |
