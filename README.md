@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0070-climbing-stairs) |
 | [0062-unique-paths](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0089-gray-code) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0089-gray-code) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0089-gray-code) |
 ## Linked List
 |  |
 | ------- |
