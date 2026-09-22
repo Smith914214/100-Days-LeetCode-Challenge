@@ -174,15 +174,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0100-same-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
