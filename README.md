@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0091-decode-ways) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0072-edit-distance) |
 | [0063-unique-paths-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0063-unique-paths-ii) |
+| [0091-decode-ways](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0091-decode-ways) |
 ## Backtracking
 |  |
 | ------- |
