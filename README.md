@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
+| [0077-combinations](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0077-combinations) |
 ## Bracket Sequences
 |  |
 | ------- |
