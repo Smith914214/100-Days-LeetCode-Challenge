@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
