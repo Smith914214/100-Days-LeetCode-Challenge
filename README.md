@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0112-path-sum) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0112-path-sum) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0112-path-sum) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0112-path-sum) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
