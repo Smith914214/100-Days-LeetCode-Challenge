@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
