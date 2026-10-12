@@ -244,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
