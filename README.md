@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0086-partition-list) |
 | [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
