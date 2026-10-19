@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0136-single-number) |
+| [0120-triangle](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0120-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0120-triangle](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0120-triangle) |
 ## Backtracking
 |  |
 | ------- |
