@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0136-single-number) |
 | [0120-triangle](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0120-triangle) |
+| [0001-two-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0001-two-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 ## Math
 |  |
 | ------- |
