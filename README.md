@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0136-single-number) |
 | [0120-triangle](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0120-triangle) |
 | [0001-two-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0077-combinations](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0136-single-number) |
+| [0078-subsets](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
