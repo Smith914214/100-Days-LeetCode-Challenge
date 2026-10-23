@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
 ## Database
 |  |
 | ------- |
