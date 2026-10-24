@@ -276,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1934-confirmation-rate](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1934-confirmation-rate) |
+| [1661-average-time-of-process-per-machine](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
