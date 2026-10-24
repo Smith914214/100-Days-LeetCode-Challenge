@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0120-triangle) |
 | [0001-two-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0078-subsets) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0001-two-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Quicksort
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0098-validate-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0112-path-sum) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0098-validate-binary-search-tree](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0098-validate-binary-search-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Combinatorics
 |  |
 | ------- |
