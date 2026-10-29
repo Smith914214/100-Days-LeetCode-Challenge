@@ -292,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1251-average-selling-price) |
 | [1075-project-employees-i](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1075-project-employees-i) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1211-queries-quality-and-percentage](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
