@@ -297,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1174-immediate-food-delivery-ii) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [0550-game-play-analysis-iv](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0550-game-play-analysis-iv) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
