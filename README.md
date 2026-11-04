@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0086-partition-list) |
 | [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
+| [0061-rotate-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0061-rotate-list) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0092-reverse-linked-list-ii) |
+| [0061-rotate-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
