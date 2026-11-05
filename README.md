@@ -304,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1729-find-followers-count) |
 | [0619-biggest-single-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0619-biggest-single-number) |
 | [1070-product-sales-analysis-iii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1070-product-sales-analysis-iii) |
+| [1045-customers-who-bought-all-products](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
