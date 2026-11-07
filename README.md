@@ -309,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1789-primary-department-for-each-employee) |
 | [0610-triangle-judgement](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0610-triangle-judgement) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1978-employees-whose-manager-left-the-company) |
+| [1527-patients-with-a-condition](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
