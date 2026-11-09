@@ -314,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0176-second-highest-salary) |
 | [1484-group-sold-products-by-the-date](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1484-group-sold-products-by-the-date) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
