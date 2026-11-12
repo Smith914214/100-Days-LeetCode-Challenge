@@ -318,4 +318,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0626-exchange-seats) |
 | [1341-movie-rating](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1341-movie-rating) |
 | [1164-product-price-at-a-given-date](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1164-product-price-at-a-given-date) |
+| [1321-restaurant-growth](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
