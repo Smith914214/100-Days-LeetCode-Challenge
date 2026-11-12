@@ -322,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/1907-count-salary-categories) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0585-investments-in-2016](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0585-investments-in-2016) |
+| [0185-department-top-three-salaries](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
