@@ -324,4 +324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0585-investments-in-2016) |
 | [0185-department-top-three-salaries](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0185-department-top-three-salaries) |
 | [0183-customers-who-never-order](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0183-customers-who-never-order) |
+| [0175-combine-two-tables](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
