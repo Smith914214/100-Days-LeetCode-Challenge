@@ -325,4 +325,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0185-department-top-three-salaries) |
 | [0183-customers-who-never-order](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0183-customers-who-never-order) |
 | [0175-combine-two-tables](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
