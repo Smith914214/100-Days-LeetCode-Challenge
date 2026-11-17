@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0061-rotate-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0061-rotate-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0092-reverse-linked-list-ii) |
 | [0061-rotate-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0061-rotate-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
