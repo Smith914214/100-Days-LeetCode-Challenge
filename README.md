@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0125-valid-palindrome) |
 | [0061-rotate-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0061-rotate-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0202-happy-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0001-two-sum](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0202-happy-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -338,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0627-swap-sex-of-employees](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0627-swap-sex-of-employees) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Smith914214/100-Days-LeetCode-Challenge/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
